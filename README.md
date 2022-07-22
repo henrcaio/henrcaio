@@ -1,5 +1,5 @@
-### Hi there 👋
-## Hi! I'm an awarded Coordinator looking foward to transition carrers.
+# 👋 Hi! (or Coé if you're from RIO) 
+I'm an awarded Coordinator looking foward to transition carrers. After a couple of years away from college, I'm getting my head around coding again.
 
 <div align="center">
   <a href="https://github.com/henrcaio">
@@ -17,24 +17,12 @@
   <a href="https://www.linkedin.com/in/caio-hs-paula" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:caioh96@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 
+
+- 🌱 Currently learning Python
+- 👯 Looking to collaborate on pretty much <b>anything</b>, so hit me up!
+- 🎸 Used to be a gigging musician
+- 🏎 F1 fan and weekend kart racer
+  
   ![Snake animation](https://github.com/henrcaio/henrcaio/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-
-
-
-
-<!--
-**henrcaio/henrcaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
