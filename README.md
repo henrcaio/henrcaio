@@ -3,8 +3,8 @@ I'm an awarded Coordinator looking foward to transition carrers. After a couple 
 
 <div align="center">
   <a href="https://github.com/henrcaio">
-  <img height="180em" img width="48%" src="https://github-readme-stats.vercel.app/api?username=henrcaio&hide=stars&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
-  <img height="180em" img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrcaio&layout=compact&langs_count=7&theme=city_lights&include_all_commits=true&count_private=true"/>
+  <img height="180em" img width="48%" src="https://github-readme-stats.vercel.app/api?username=henrcaio&hide=stars&show_icons=true&theme=city_lights&include_all_commits=false&count_private=true"/>
+  <img height="180em" img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrcaio&layout=compact&langs_count=7&theme=city_lights"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
