@@ -1,6 +1,10 @@
 # 👋 Hi! (or Coé if you're from RIO) 
 I'm an awarded Coordinator looking foward to transition carrers. After a couple of years away from college, I'm getting my head around coding again.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrcaio)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 <div align="center">
   <a href="https://github.com/henrcaio">
   <img height="180em" img width="48%" src="https://github-readme-stats.vercel.app/api?username=henrcaio&hide=stars&show_icons=true&theme=city_lights&include_all_commits=false&count_private=true"/>
