@@ -3,17 +3,17 @@ I'm an awarded Coordinator looking foward to transition carrers. After a couple 
 
 <div align="center">
   <a href="https://github.com/henrcaio">
-  <img height="180em" img width="48%" src="https://github-readme-stats.vercel.app/api?username=henrcaio&hide=stars&show_icons=true&theme=city_lights&include_all_commits=false&count_private=true"/>
-  <img height="200em" img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrcaio&layout=compact&langs_count=7&theme=city_lights"/>
+  <img height="180em" img width="48%" src="https://github-readme-stats.vercel.app/api?username=henrcaio&show_icons=true&theme=city_lights&include_all_commits=false&count_private=true"/>
+  <img height="200em" img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrcaio&layout=compact&langs_count=8&theme=city_lights"/>
 </div>
-<div style="display: inline_block"><br>
+
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-
 </div>
   
   ##
