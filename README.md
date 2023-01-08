@@ -30,4 +30,3 @@ I'm an awarded Coordinator looking foward to transition carrers. After a couple 
   
   ![Snake animation](https://github.com/henrcaio/henrcaio/blob/output/github-contribution-grid-snake.svg)
 </div>
-
