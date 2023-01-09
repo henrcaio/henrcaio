@@ -28,5 +28,5 @@ I'm an awarded Coordinator looking foward to transition carrers. After a couple 
 - 🎸 Used to be a gigging musician
 - 🏎 F1 fan and weekend kart racer
   
-  ![Snake animation](https://github.com/henrcaio/henrcaio/blob/output/github-contribution-grid-snake.svg)
+  ![gitartwork](gitartwork.svg)
 </div>
