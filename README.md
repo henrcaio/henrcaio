@@ -23,7 +23,7 @@ I'm an awarded Coordinator looking foward to transition carrers. After a couple 
   <a href = "mailto:caioh96@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 
 
-- 🌱 Currently learning Python
+- 🌱 Currently learning Data Science
 - 👯 Looking to collaborate on pretty much <b>anything</b>, so hit me up!
 - 🎸 Used to be a gigging musician
 - 🏎 F1 fan and weekend kart racer
